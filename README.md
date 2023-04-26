@@ -3,9 +3,9 @@ Aspen Capital Software Engineering Internship Interview <br>
 
 To run my code, first download and extract the Aspen.zip file and open up the Aspen folder in your preferred coding platform/terminal. <br>
 Make sure your package manager is up to date by running <br>
-  apt-get update. <br>
+`apt-get update` <br>
 Second, run the code python3 ./app.py in your terminal, and for every ModuleFoundError download the module that you are missing by running <br> 
-  pip install (name of module). <br>
+`pip install (name of module)` <br>
 If you don't have pip installed you can install it by running <br>
 `sudo apt install python3-pip` <br>
 in your terminal<br>
