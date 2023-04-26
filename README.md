@@ -7,7 +7,7 @@ Make sure your package manager is up to date by running <br>
 Second, run the code python3 ./app.py in your terminal, and for every ModuleFoundError download the module that you are missing by running <br> 
   pip install (name of module). <br>
 If you don't have pip installed you can install it by running <br>
-  sudo apt install python3-pip <br>
+`sudo apt install python3-pip` <br>
 in your terminal<br>
 After running the code, the code should run a local server to the address http://127.0.0.1:5000, and then from there you can use the buttons to navigate around. <br>
 
