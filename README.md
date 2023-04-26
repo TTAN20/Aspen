@@ -3,7 +3,7 @@ Aspen Capital Software Engineering Internship Interview <br>
 
 To run my code, first download and extract the Aspen.zip file and open up the folder in your preferred coding platform/terminal. <br>
 Second, run the code python3 ./app.py in your terminal, and for every ModuleFoundError download the module that you are missing by running pip install (name of module). <br>
-If you don't have pip installed you can install it by running sudo apt install python3-pip <br>
+If you don't have pip installed you can install it by running sudo apt install python3-pip in your terminal<br>
 After running the code, the code should run a local server to the address http://127.0.0.1:5000, and then from there you can use the buttons to navigate around. <br>
 
 
